@@ -12,104 +12,652 @@ http://103.205.133.21/hls/rtv.m3u8
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BD Bangla",BTV 
 http://103.205.133.19/hls/btv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD Bangla",Aagami TV
-http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/5xzbhyJYoHQQG3FlfagntF9HgRXR2XBCMWbjlrpm7_i-hQ8tvMA40UdUdOkEH8g4DL7-GIA85ZAnhcIOqEZZtRMfToy234hjXt4SwA" group-title="BD Bangla",Alif TV 
-http://128.199.212.160/alif/1080/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",ATN Bangla
-http://103.81.104.118/hls/stream17.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",ATN Bangla 2
-http://172.32.1.88:1935/tvprogram/ATN-BANGLA/chunklist_w535093910.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",ATN News
-http://10.16.100.205/hls/news_atn_london720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Bangla TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",BanglaVision
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Channel 24
-http://10.16.100.205/hls/ch24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Channel I 
-http://103.81.104.118/hls/stream18.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Channel I 2
-http://10.16.100.205/hls/ch_i.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Deepto Tv
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Desh TV
-http://10.16.100.205/hls/des_tv_local480.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Dighi Bangla
-http://10.16.100.203:8082/bangla/digibangla24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Ekhushe TV
-http://10.16.100.205/hls/21etv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Gazi TV
-http://10.16.100.203:8082/bangla/gtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Jamuna Tv
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",Mohona TV
-http://10.16.100.205/hls/mohona_tv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",My Tv
-http://10.16.100.205/hls/my_tv_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",News 24
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",RTV
-http://10.16.100.203:8082/bangla/TV_R.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Hindi",Sony Tv
-http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Hindi",Colors
-http://10.16.100.201/hindi/colors_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Hindi",Zee TV
-http://10.16.100.201/hindi/ztv_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Bangla",And TV
-http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Indian Bangla",Akash Aath
-http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Indian Bangla",Colors Bangla
-http://10.16.100.205/hls/colorsbd480.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Indian Bangla",Sony Aath
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Indian Bangla",Star Jalsha
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Indian Bangla",Zee Bangla
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Movie",And Pic HD
-http://10.16.100.201/hindi/&pictures_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Movie",And Pic HD
-http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Movie",B4Movies
-
-
-http://10.16.100.201/hindi/bforumovies_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Movie",Wow Cinema
-http://10.16.100.201/hindi/wow_cinema.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Movie",Zee Cinema
-http://10.16.100.200:8082/hls/z_Cinema_hd_bd_720p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Music",9XM
-http://10.16.100.201/hindi/ninexm_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Music",B4Music
-http://10.16.100.201/hindi/bforu_music_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Music",Dhoom Music
-http://10.16.100.201/hindi/dhoom_music_1stop_in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Music",Gaan Bangla
-http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Music",Masti
-http://10.16.100.207:8082/sports/mtuness.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Music",Sangeet Bangla
-http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Ten 1
-http://10.16.100.207:8082/sports/ten1_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports 2
-http://10.16.100.207:8082/sports/starsports2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",Star Sports Sel 1
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",T Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id) tvg-logo="" group-title="Sports",T Sports 2
-http://10.16.100.201/hindi/sportsT.m3u
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="CONTRACT", Ami Chinina..
+https://asfaiptv.arvanvod.com/D1plzDwWMm/AQ26RpKDrz/h_,420_3200,k.mp4.list/master.m3u8?@asfaiptv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3Wtb7is.jpg" group-title="BANGLA", ATN BANGLA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462845
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OLCTHLw.jpg" group-title="BANGLA", Asian TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462847
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cZVRoNH.jpg" group-title="BANGLA", Bangla TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462848
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oiQgaRh.jpg" group-title="BANGLA", BIJOY TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462850
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bViZj7v.jpg" group-title="BANGLA", BOISHAKHI TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462851
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qL5hCHl.jpg" group-title="BANGLA", CHANNEL 9
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462852
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LcXhIpk.jpg" group-title="BANGLA", CHANNEL I
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462855
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gNKxlgj.jpg" group-title="BANGLA", DBC NEWS
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462857
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SDpt5En.jpg" group-title="BANGLA", Ekattor TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462858
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i6pGuhl.jpg" group-title="BANGLA", GAZI TV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462859
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sfN1Gr2.png" group-title="BANGLA", INDEPENDENT TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462860
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e344Py8.png" group-title="BANGLA", MY TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462862
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PrFIRbG.jpg" group-title="BANGLA", NTV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462864
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BdqkAtj.jpg" group-title="BANGLA", NEWS 24
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462865
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1XbycYg.jpg" group-title="BANGLA", RTV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462866
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vfogGUa.jpg" group-title="BANGLA", SA TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462867
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JKQjGJk.jpg" group-title="BANGLA", Sangsad
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462868
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3tPwWsL.jpg" group-title="INDIAN BANGLA", Zee Bangla
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462869
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uF7ChWS.jpg" group-title="INDIAN BANGLA", Colors Bangla HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462870
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1q5LCsJ.png" group-title="INDIAN BANGLA", Orange TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462871
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462872
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="INDIAN BANGLA", Aamar Cinema
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462873
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FwqXQOn.jpg" group-title="INDIAN BANGLA", Culcalta News
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462874
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DWlfnN8.png" group-title="HINDI ENTERTAINMENT", Colors HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462875
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="HINDI ENTERTAINMENT", Star Plus SD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462876
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b28tOEy.png" group-title="HINDI ENTERTAINMENT", SONY HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462877
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="HINDI ENTERTAINMENT", SONY SAB HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462878
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="HINDI ENTERTAINMENT", &TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462879
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="HINDI MOVIES", INDIAN MOVIES 24/7
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462880
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yijvpU3.jpg" group-title="HINDI MOVIES", Rishtey Cineplex
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462881
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vtaTw3N.png" group-title="HINDI MOVIES", UTV ACTION SD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462882
+#EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="HINDI MOVIES", SONY MAX HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462883
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="HINDI MOVIES", BFlix Movies
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462884
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XZ7c3TH.jpg" group-title="HINDI MOVIES", And Pictures
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462885
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IKBcCsC.png" group-title="HINDI MOVIES", B4U Movies
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462886
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5eJJpFw.png" group-title="HINDI MOVIES", MAHA MOVIE
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462888
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg" group-title="HINDI MOVIES", WoW CINEMA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462890
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="HINDI MOVIES", BOX CINEMA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462891
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIES", HBO
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462894
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1Vz3JaU.jpg" group-title="ENGLISH MOVIES", Zee Cafe
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462895
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1Vz3JaU.jpg" group-title="ENGLISH MOVIES", Zee Cafe HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462897
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC 1
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462899
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC 2
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462901
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC 3
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462903
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC 4
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462904
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC 5
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462905
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC + Drama
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462907
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC MAX
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462909
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", MBC ACTION
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462910
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AX9QnHD.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462911
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ij7U2FZ.jpg" group-title="INFOTAINMENT & LIFESTYLE", Love Nature
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462912
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vjij72B.jpg" group-title="INFOTAINMENT & LIFESTYLE", NATIONAL GEOGRAPHIC
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462913
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hGF2kL5.png" group-title="INFOTAINMENT & LIFESTYLE", BBC EARTH HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462914
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462915
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="KIDS-CARTOONS", Sony yay
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462916
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WfXz0qB.jpg" group-title="KIDS-CARTOONS", Halow Kids HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462917
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Tom & Jerry
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462918
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DF5z8aV.jpg" group-title="SPORTS", WILLOW CRICKET
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/300115145
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t7xRx67.jpg" group-title="SPORTS", Star Sports 1
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462919
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Akz2r37.png" group-title="SPORTS", Sky Sports
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462920
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Akz2r37.png" group-title="SPORTS", DD_SPORTS
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462921
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Akz2r37.png" group-title="SPORTS", Halow Sports
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462922
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sports 1 Premium HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462923
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport 1 Premium SD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462924
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport 2 Premium HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462925
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport 2 Premium SD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462926
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sports 3 Premium HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462927
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport 3 Premium SD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462928
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sports 4 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462929
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport SD 4
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462930
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport HD 5
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462931
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport SD 5
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462932
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport HD 6
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462933
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport SD 6
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462934
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport HD 7
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462935
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KpEpTLD.png" group-title="SPORTS", beIN Sport SD 7
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462936
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uP8bj6R.png" group-title="MUSIC CHANNELS", Sangeet Bangla
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462937
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yovC4Uv.jpg" group-title="MUSIC CHANNELS", Dhoom Music
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462938
+#EXTINF: -1 tvg-logo="https://i.imgur.com/c0n4Gz5.png" group-title="MUSIC CHANNELS", B4U Music
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462939
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", IN: Colors_Bengali_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462940
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD : Star Jalsa HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462941
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_CHANNEL 24 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462942
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Channel I UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462943
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Channel S
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462944
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_DESH TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462945
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_AakaashBangla
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462946
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_MY TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462947
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_MOHONA TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462948
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_PEACE TV BANGAL
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462949
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_AnandaTV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462950
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_RTV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462951
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_DHOOM MUSIC
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462952
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Sangeet Bangali
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462953
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_IQRA BANGALI
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462954
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Rupashi bangla
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462955
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_ZEE CINMEA Bangali
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462956
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_DESHITV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462957
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Movie Bangla HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462958
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Jamuna TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462959
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Somoy TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462960
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Independent TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462961
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_NTV Bangla HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462962
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: STAR JALSHA MOVIES FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462963
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: BANGLA VISION
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462964
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: ATN NEWS HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462965
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD:Ekattor tv
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462966
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: BOISAKHI HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462967
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: ASIAN TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462968
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: ATN BANGLA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462969
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Duronto TV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462970
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD_Channel 9 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462971
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: Gazi TV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462972
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: ZEE BANGLA HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462973
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD : BTV BD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462974
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: Deepto
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462975
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: Maasranga TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462976
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: TIME TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462977
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: DESHE BIDESHE
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462978
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: JHANKAR TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462979
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD:DEEPTO TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462980
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-BANGLADESHI", BD: T SPORTS
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462981
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: STAR PLUS
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462982
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462983
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY SAB HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462984
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY PIX HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462985
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: HBO HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462986
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY MAX HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462987
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: ZEE TV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462988
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: STAR PLUS (4K)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462989
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Romedy Now HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462990
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  History_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462991
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Travel XP HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462992
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Animal_Planet_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462993
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  AXN_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462994
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Comedy_Central_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462995
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Colors_Infinity_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462996
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Sony_BBC_Earth_HD_English
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462997
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: MNX HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462998
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: STAR GOLD HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299462999
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Colors HD (4K)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463000
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: ZeeCafe HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463001
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: STAR BHARAT HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463002
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: & PRIVE HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463003
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Star Gold Select HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463004
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Star World Premiere FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463005
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: STAR MOVIES SELECT FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463006
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: COLOR FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463007
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: ZEE TV FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463008
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: STAR PLUS FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463009
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY TV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463010
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Zee Cinema HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463011
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  & Pictures HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463012
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  & TV HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463013
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: & Flix HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463014
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: cineplex (4K)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463015
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Star_World_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463016
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Star_Movies_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463017
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: IN: BOLLYWOOD PREMIER FHD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463018
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: BOLLYWOOD HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463019
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zee Action
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463020
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN : B4U Movies
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463021
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN : B4U Plus
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463022
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zing TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463023
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zee Smile
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463024
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: UTV MOVIES
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463025
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY MAX 2
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463026
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IND: Shemaroo TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463027
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN : PARAM TV SATTA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463028
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Cinema TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463029
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: MANORANJAN TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463030
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: MANORANJAN MOVIES
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463031
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: BOX CINEMA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463032
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY WAH
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463033
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY MIX
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463034
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Star_Gold_2
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463035
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN : Rishtey TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463036
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Sony Pal
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463037
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zee Rajasthan HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463038
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zee Classic
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463039
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zee Anmol Cinema
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463040
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: UTV Action
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463041
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: 9XM
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463042
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Mastiii
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463043
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: B4U Music
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463044
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Housefull Movies
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463045
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: SONY SD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463046
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: ILOVE (Music)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463047
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Filmy
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463048
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: ABZY COOL
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463049
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: ABZY MOVIES
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463050
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK: ZEE TV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463051
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK : Sony SAB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463052
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", (UK):STAR PLUS HD*
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463053
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", (UK):STAR GOLD  UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463054
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", (UK):STAR BHARAT  UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463055
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", (UK):SONY TV  UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463056
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", (UK):SONY SAB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463057
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK : COLOR UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463058
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK : & Tv UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463059
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK: Zee cinema UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463060
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK : Colors CinePlex UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463061
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK : Sony Max UK
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463062
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK: STAR UTSAV
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463063
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK: B4U MUSIC
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463064
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK: B4U MOVIES
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463065
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", UK: B4U PLUS
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463066
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Kadak Hits(music)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463067
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Zee Anmol
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463068
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Discovery_Kids_1
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463069
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Discovery Science Hindi
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463070
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  Discovery_Channel_Hindi
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463071
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN:  TLC_Hindi
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463072
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", TAMIL: Tata Sky Cooking
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463073
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN : CARTOON NETWORK HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463074
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: Sony_Yay_Hindi
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463075
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-INDIAN", IN: sonic_Hindi
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463076
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: SONY TEN 3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463077
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: Star Sport 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463078
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: BOXING HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463079
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: SONY TEN 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463080
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: SONY ESPN HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463081
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN:  Six HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463082
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: SONY Ten 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463083
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: STAR SPORTS SELECT 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463084
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: STAR SPORTS HINDI HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463085
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: WILLOW CRICKET
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463086
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", US: WILLOW CRICKET XTRA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463087
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: STAR_SPORTS_SELECT_1_HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463088
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: STAR SPORTS 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463089
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN : STAR SPORTS 3
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463090
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AU: FOX CRICKET 501
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463091
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", Astro Cricket HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463092
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PK: PSL (CRICKET)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463093
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", ADS SPORTS CRICKET
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463094
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PK: PTV SPORTS
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463095
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PK: GEO SUPER
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463096
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", UK: SKY SPORTS CRICKET
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463097
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PK: Ten Sports
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463098
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV: Super Sport 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463099
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV: Super Sport 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463100
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463101
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 4 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463102
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 5 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463103
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 6 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463104
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 7 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463105
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 8 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463106
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 9 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463107
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 10 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463108
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 11 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463109
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", DSTV : Super Sport 12 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463110
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 1 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463111
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 2 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463112
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 3 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463113
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 4 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463114
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 5 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463115
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 6 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463116
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 1 SR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463117
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: SPORT KLUB 2 SR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463118
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", USA: ESPN 1
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463119
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", USA: ESPN 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463120
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", USA: Fox Sport 1 HD (FS1)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463121
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", USA: Fox Sport 2 HD (FS2)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463122
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", IN: DSPORT
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463123
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: SPORT TV1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463124
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: SPORT TV 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463125
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: SPORT TV3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463126
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: SPORT TV4 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463127
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: Sport TV 5 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463128
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: EUROSPORT 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463129
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: EUROSPORT 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463130
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: ELEVEN SPORT 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463131
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: ELEVEN SPORT 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463132
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: ELEVEN SPORT 3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463133
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", PT: SPORT TV NBA
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463134
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", FR : BEIN SPORT 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463135
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", FR : BEIN SPORT 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463136
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", FR : BEIN SPORT 3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463137
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR: BEIN SPORTS 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463138
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463139
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463140
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 4 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463141
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 5 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463142
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BeIN Sport 6 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463143
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 7 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463144
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 8 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463145
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 9 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463146
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 10 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463147
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BEIN SPORT 11 HD (ENG)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463148
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", AR : BeIN Sport 12 HD (ENG)
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463149
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", NL : FOX SPORTS 1 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463150
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", NL : FOX SPORTS 2 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463151
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", NL : FOX SPORTS 3 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463152
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", NL : FOX SPORTS 4 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463153
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", NL : FOX SPORTS 5 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463154
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", NL : FOX SPORTS 6 HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463155
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", FR: RMC SPORTS 2
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463156
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", FR: RMC SPORTS 3
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463157
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", FR: RMC SPORTS 4
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463158
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Nova Sport HD
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463159
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Planet Sport 1
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463160
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Planet Sport 2
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463161
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Planet Sport 3
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463162
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Planet Sport 4
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463163
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Planet Sport 5
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463164
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 1 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463165
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 2 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463166
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 3 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463167
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 4 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463168
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 5 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463169
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 6 HR
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463170
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 1 SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463171
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 2 SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463172
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 3 SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463173
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 4 SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463174
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 5 SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463175
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 1 HD SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463176
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 2 HD SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463177
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 3 HD SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463178
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 4 HD SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463179
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vSZGeJM.jpg" group-title="VIP-WORLD SPORTS", EX-YU: Arena Sport 5 HD SRB
+https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463180
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273303
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/82635
+https://atc.hopto.org/Cricket-Willow-Quality/index.m3u8
+https://atc.hopto.org/Cricket-Willow-Quality/index.m3u8
+http://oqab.life:8080/live/8181/8181/242.ts
+https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
+http://103.205.133.19/hls/tsports.m3u8
